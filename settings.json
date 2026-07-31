@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 25565,
+    "ip": "MutiMedievalSMP.aternos.me",
+    "port": 12151,
     "version": "1.21.1",
     "try-creative": false
   },
