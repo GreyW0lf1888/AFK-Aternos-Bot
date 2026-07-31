@@ -25,7 +25,6 @@ let botState = {
   errors: [],
   wasThrottled: false,
 };
-let bot; // Fixes "ReferenceError: bot is not defined" across all routes
 
 
 // Health check endpoint for monitoring
